@@ -1,1 +1,1 @@
-# google-chrome-keepit-extension
+# google-chrome-pinit-extension
